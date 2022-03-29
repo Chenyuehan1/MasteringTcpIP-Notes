@@ -1,2 +1,2 @@
-# Notes-for-Mastering_TCP_IP-Chinese-edition
+# Mastering TCP\IP Chinese edition - Notes
 Notes for Mastering TCP/IP Chinese  edition
